@@ -31,7 +31,7 @@
  2 On that folder right click and press on "Git Bash Here"  
  3 After Git Bash opened write this command: git clone https://github.com/CiceuGabi/Euler-Problems.git  
  4 Open the solution file in Visual Studio or Visual Studio Code  
- 5 Run the solution for a particular problem by selecting the corresponding project in the solution explorer and hitting F5  
+ 5 Run the solution by selecting the corresponding project in the solution explorer and hitting F5  
  6 Follow the on-screen instructions in the console to see the results of the problems  
  
  # Contact
